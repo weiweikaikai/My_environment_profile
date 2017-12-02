@@ -1,0 +1,6 @@
+PROJECT(HELLO)
+ADD_SUBDIRECTORY(src)
+
+
+
+
